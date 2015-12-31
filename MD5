@@ -1,0 +1,13 @@
+90db6a734411345dd65bfbf0e1055153 *DESCRIPTION
+81f5f32bb0b3313c328a07cf2cb0cee6 *NAMESPACE
+195acf3f877e67860a27e237280e18ec *R/hdr_indicators.R
+e637fb6c77ae3fc7025208f3b4230874 *R/main.R
+571bcbc4c73124444a4652901c436d79 *README.md
+961faf4b0177ce18418613fbf57ffffd *build/vignette.rds
+a23ae6371021c3320f543799bbbc3f01 *data/hdr_indicators.rda
+68420c623fefac3c20a72b628a334e32 *inst/doc/undp_hdr.R
+77f8e8b847d1ae1db449a1a11446a2b0 *inst/doc/undp_hdr.Rmd
+aa960664b99766a066858f720ac11199 *inst/doc/undp_hdr.html
+488e68a4eea45501bcd18be6f442d225 *man/get_data.Rd
+1bc86176066a997c9f8fd9ddc0eb7838 *man/hdr_indicators.Rd
+77f8e8b847d1ae1db449a1a11446a2b0 *vignettes/undp_hdr.Rmd
